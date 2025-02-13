@@ -1,5 +1,12 @@
 ## Análisis y Visualización de Sistemas de Ecuaciones Diferenciales 2x2
 
+**Autores**
+
+- Andrés Lema
+- Tito Madrid
+
+FLACSO - Ecuador
+
 **Descripción**
 
 Este proyecto permite analizar y visualizar sistemas de ecuaciones diferenciales lineales.
@@ -62,9 +69,3 @@ donde A, B, C y D son coeficientes modificables. Se utilizan herramientas de Pyt
 - IPython
 - ipywidgets
 
-**Autores**
-
-- Andrés Lema
-- Tito Madrid
-
-Este código forma parte de un trabajo para la Maestría en Economía del Desarrollo en FLACSO - Ecuador.
