@@ -54,6 +54,24 @@ donde A, B, C y D son coeficientes modificables. Se utilizan herramientas de Pyt
    - Se emplean `ipywidgets` para modificar los parámetros del sistema (A, B, C, D) y las condiciones iniciales `x(0)` e `y(0)`.
    - Los cambios en los sliders o campos de texto actualizan automáticamente los gráficos y cálculos.
 
+## Capacidad del Dashboard para Ecuaciones Lineales con Valores Propios Reales y Distintos
+
+Este dashboard ha sido diseñado específicamente para analizar y visualizar sistemas de ecuaciones diferenciales lineales de 2x2 que tienen valores propios reales y distintos. Esto significa que la matriz del sistema, al ser diagonalizada, produce dos valores propios diferentes que son números reales. 
+
+**¿Por qué es importante esta condición?**
+
+La naturaleza de los valores propios de un sistema de ecuaciones diferenciales lineales determina el comportamiento cualitativo de sus soluciones. Cuando los valores propios son reales y distintos, las soluciones del sistema exhiben un comportamiento bien definido que puede ser clasificado y visualizado de manera clara.
+
+**¿Cómo se visualizan las soluciones?**
+
+El dashboard ofrece diversas herramientas de visualización para comprender el comportamiento de estos sistemas:
+
+1.  **Retratos de fase:** Muestran el campo vectorial del sistema y las trayectorias de las soluciones en el plano de fase (x, y). Esto permite visualizar la dirección y la estabilidad de las soluciones.
+2.  **Gráficas de series de tiempo:** Representan la evolución de las variables x(t) e y(t) en función del tiempo. Esto permite analizar el comportamiento temporal de las soluciones, como oscilaciones o convergencia a un punto de equilibrio.
+3.  **Análisis de valores propios y vectores propios:** El dashboard calcula y muestra los valores propios y vectores propios del sistema. Estos elementos son cruciales para entender la estabilidad y la dirección de las soluciones.
+
+**En resumen,** este dashboard es una herramienta poderosa para estudiar sistemas de ecuaciones diferenciales lineales con valores propios reales y distintos. Permite visualizar de manera intuitiva el comportamiento de las soluciones y comprender la dinámica de una amplia variedad de sistemas en diversas áreas de estudio.
+
 **Uso**
 
 1. Ejecutar el script en un entorno Jupyter Notebook.
