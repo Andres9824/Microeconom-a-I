@@ -7,6 +7,10 @@
 
 FLACSO - Ecuador
 
+**Enlace al Colab*
+
+https://colab.research.google.com/drive/13qrXJST_gpuH5M4KyLSCvi_B1O9s9CGz
+
 **Descripción**
 
 Este proyecto permite analizar y visualizar sistemas de ecuaciones diferenciales lineales.
