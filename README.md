@@ -2,13 +2,22 @@
 
 **Descripción**
 
-Este proyecto permite analizar y visualizar sistemas de ecuaciones diferenciales lineales de la forma:
+Este proyecto permite analizar y visualizar sistemas de ecuaciones diferenciales lineales.
 
-\[
-\begin{pmatrix} \dot{x} \\ \dot{y} \end{pmatrix} =
-\begin{pmatrix} a & b \\ c & d \end{pmatrix}
-\begin{pmatrix} x \\ y \end{pmatrix}
-\]
+$$
+\begin{pmatrix}
+\dot{x} \\
+\dot{y}
+\end{pmatrix} = 
+\begin{pmatrix}
+a & b \\
+c & d
+\end{pmatrix}
+\begin{pmatrix}
+x \\
+y
+\end{pmatrix}
+$$
 
 donde A, B, C y D son coeficientes modificables. Se utilizan herramientas de Python para resolver el sistema, visualizar su evolución temporal, su diagrama de fase y analizar la relación entre la traza y el determinante de la matriz del sistema.
 
