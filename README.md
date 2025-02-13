@@ -91,3 +91,7 @@ El dashboard ofrece diversas herramientas de visualización para comprender el c
 
 Strogatz, S. H. (2015). *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering* (2nd ed.). Boca Raton, FL: CRC Press.
 
+Devaney, R. L. (2003). *An Introduction to Chaotic Dynamical Systems* (2nd ed.).  Westview Press.
+
+Lorenz, E. N. (1993). *The Essence of Chaos*. University of Washington Press.
+
