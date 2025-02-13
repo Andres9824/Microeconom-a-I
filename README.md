@@ -87,3 +87,7 @@ El dashboard ofrece diversas herramientas de visualización para comprender el c
 - IPython
 - ipywidgets
 
+##Bibliografía Fundamental
+
+Strogatz, S. H. (2015). *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering* (2nd ed.). Boca Raton, FL: CRC Press.
+
